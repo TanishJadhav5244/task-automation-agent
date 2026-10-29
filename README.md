@@ -45,7 +45,7 @@ task-automation-agent/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Mayurk906/task-automation-agent.git
+git clone https://github.com/TanishJadhav5244/task-automation-agent.git
 cd task-automation-agent
 ```
 
@@ -132,4 +132,4 @@ The public service URL is available from the Render dashboard.
 
 ## Author
 
-Mayur Khamamkar
+Tanish Jadhav
